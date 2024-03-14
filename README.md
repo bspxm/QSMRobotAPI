@@ -2,7 +2,7 @@
 量子密信机器人API
 
 # 说明：
-""
+
  支持纯文本、markdown、图片、文件、图文
  a = wx.WxRobot('1111-222-333-444-55555') #webhook
  a.sendMessage('文本内容')
@@ -16,4 +16,3 @@
                "url" : "www.qq.com",
                "picurl" : "http://res.mail.qq.com/node/ww/wwopenmng/images/independent/doc/test_pic_msg1.png"
            }]')
-""
