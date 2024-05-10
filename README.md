@@ -6,7 +6,7 @@
 
 ```python
 #支持纯文本、markdown、图片、文件、图文
-a = wx.WxRobot('1111-222-333-444-55555') #webhook
+a = QSMRobotAPI.QSMRobot('1111-222-333-444-55555') #webhook
 a.sendMessage('文本内容')
 a.sendMarkdown('markdown内容')
 a.sendImage('d:/图片.jpg') #图片文件的绝对路径
